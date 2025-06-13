@@ -38,6 +38,7 @@ A lightweight React application that helps users summarize their meeting notes u
 - Clear visual separation between input and output
 - Consistent spacing and typography
 - Focus states for better accessibility
+- Added dark mode and clipboard copying for usability
 
 ## Getting Started
 
